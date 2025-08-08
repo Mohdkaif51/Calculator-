@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="operator">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:backgroundTint">#FF5722</item>
+    </style>
+
+    <style name="equal">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:backgroundTint">#03A9F4</item>
+    </style>
+
+    <style name="clear">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:backgroundTint">#3F51B5</item>
+    </style>
+
+    <style name="del">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:backgroundTint">#F44336</item>
+    </style>
+
+</resources>
